@@ -4,7 +4,7 @@ import (
 	"errors"
 	"os"
 
-	"gitlab.com/cms-tech/be-toolkit/lib/log/internal/zerolog"
+	"github.com/kecci/go-toolkit/lib/log/internal/zerolog"
 )
 
 const (

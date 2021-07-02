@@ -9,8 +9,8 @@ import (
 	"time"
 
 	"github.com/jmoiron/sqlx"
+	"github.com/kecci/go-toolkit/lib/log"
 	_ "github.com/lib/pq"
-	"gitlab.com/cms-tech/be-toolkit/lib/log"
 )
 
 type DB struct {

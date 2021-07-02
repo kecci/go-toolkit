@@ -1,4 +1,4 @@
-module gitlab.com/cms-tech/be-toolkit
+module github.com/kecci/go-toolkit
 
 go 1.16
 
